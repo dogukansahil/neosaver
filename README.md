@@ -1,7 +1,7 @@
 # neo.saver
 
 `neo.saver` is a customizable screensaver view that displays a rotating text message on a black background. It provides a simple and visually appealing screensaver experience.
-
+![demo](https://github.com/dogukansahil/neosaver/blob/main/demo.PNG)
 ## Features
 
 - Displays random text messages from a predefined set.
