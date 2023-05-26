@@ -25,6 +25,7 @@ The free version of `neo.saver` allows customization of the following aspects:
 - Text Color: Adjust the RGB values in the code to change the text color.
 - Text Shadow: Control the shadow color, offset, and blur radius by modifying the corresponding properties in the code.
 - Text Alignment: By default, the text is left-aligned, but you can modify the code to support different alignments if desired.
+- Wake, Up Neo.. Follow the white rabbit.. The matrix has you..
 
 For more advanced customization options and additional features, consider upgrading to the premium version.
 
